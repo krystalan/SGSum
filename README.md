@@ -1,4 +1,4 @@
-# SGSum
+#  <p align=center>`SGSum`</p>
 
 ### 简介
 
