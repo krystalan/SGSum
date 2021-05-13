@@ -7,7 +7,7 @@
 该数据集仅限学术研究使用。
 
 ### 数据集
-请使用[讯飞云下载](http://pan.iflytek.com:80/link/96286F5C76F9559149AAFB9BD3B5D705)数据文件（密码XNRE）
+请使用[讯飞云](http://pan.iflytek.com:80/link/96286F5C76F9559149AAFB9BD3B5D705)下载数据文件（密码XNRE）
 
 共包含三个文件：
 
