@@ -1,13 +1,18 @@
-#  <p align=center>`SGSum`</p>
-Dataset of CCKS2021 paper: 《SGSum：一个面向体育赛事摘要的人工标注数据集》
+#  <p align=center>`Sports Game Summarization`</p>
 
-### 简介
+## News
+2021/7/2 我们的论文《SGSum：一个面向体育赛事摘要的人工标注数据集》被CCKS 2021录用为资源类论文。
+
+
+
+## SGSum
+#### 简介
 
 **SGSum** (**S**ports **G**ame **Sum**marization) 是一个经过人工清洗的大规模高质量体育赛事摘要数据集。包含7854条体育赛事摘要数据，每条数据包括一场赛事的**在线评论文本**与**新闻文本**。
 
 该数据集仅限学术研究使用。
 
-### 数据集
+#### 数据集
 请使用[讯飞云](http://pan.iflytek.com:80/link/C91C8827872D98DB78E6F25B8E94FCD3)（密码FECv）或[百度网盘](https://pan.baidu.com/s/1rWUTRi3dPdwmXhRD_UjLPQ)（密码p51j）下载数据文件
 
 共包含三个文件：
