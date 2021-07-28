@@ -48,11 +48,3 @@
 ]
 ```
 备注："level"字段中的"hard"代表“丰富类”; "medium"对应“中等类”; "easy"对应“简短类”
-
-#### 统计信息
-<p align="center">
-    <br>
-    <img src="./pics/SGSum_Statistics.png" width="800"/>
-    <br>
-</p>
-
