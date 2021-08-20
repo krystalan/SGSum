@@ -7,14 +7,9 @@
 </p>
 
 ## News
-2021/8/10 Our paper *SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary* is accepted by CIKM 2021 as a short paper.
-
 2021/7/29 我们的论文《SGSum：一个面向体育赛事摘要的人工标注数据集》入选CCKS 2021 Oral Paper。
 
 2021/7/2 我们的论文《SGSum：一个面向体育赛事摘要的人工标注数据集》被CCKS 2021录用为资源类（Resource Track）论文。
-
-## SportsSum2.0
-Coming Soon
 
 ## SGSum
 #### 简介
