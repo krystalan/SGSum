@@ -58,5 +58,5 @@ Q2: 体育赛事摘要还有哪些值得研究的方向？
 A2: 我们在最新推文[《原创成果丨体育赛事摘要任务概览》](https://mp.weixin.qq.com/s/EidRYB_80AhRclz-mryVhQ)中总结了体育赛事摘要的未来方向，希望能够对你有所启发！   
 
 Q3: 任何想法或意见？   
-A3: Please feel free to contact with me! (jawang1[at].stu.suda.edu.cn)
+A3: Please feel free to contact me! (jawang1[at].stu.suda.edu.cn)
 
