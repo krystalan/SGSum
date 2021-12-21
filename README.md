@@ -52,7 +52,7 @@
 
 ## Q&A
 Q1: 如何构建基线模型？    
-A1: 我们计划元旦之前，在[K-SportsSum](https://github.com/krystalan/K-SportsSum)中公布一个构建baseline的教程，希望可以帮到你！
+A1: 我们计划元旦之前，在[这里](https://github.com/krystalan/K-SportsSum)公布一个构建baseline的教程，希望可以帮到你！
 
 Q2: 体育赛事摘要还有哪些值得研究的方向？    
 A2: 我们在最新推文[《原创成果丨体育赛事摘要任务概览》](https://mp.weixin.qq.com/s/EidRYB_80AhRclz-mryVhQ)中总结了体育赛事摘要的未来方向，希望能够对你有所启发！   
